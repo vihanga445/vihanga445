@@ -18,13 +18,13 @@ I am a Computer Science Undergraduate at University of Ruhuna .<br/>
 
 ## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,git,github,postman,docker,spring,java,mysql" />
 </p>
 
 ---
 
 
-## 🌐 Connect With Me  
+## 🌐 let's connect
 <p align="center">
   <a href="mailto:vihangaabeynayaka789@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
   <a href="www.linkedin.com/in/vihanga-abeynayake-852733245"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
