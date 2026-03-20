@@ -4,8 +4,8 @@ I am a Computer Science Undergraduate at University of Ruhuna .<br/>
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on my final year research in NLP and AI.
-- 🌱 I’m currently learning advanced MLOps techniques and exploring LLMs.
+- 🔭 Focused on building scalable software systems and mastering modern development practices.
+- 🌱 Exploring AI , DevOps workflows, cloud technologies, and production‑grade engineering principles.
 - 👯 I’m looking to collaborate on innovative full-stack or AI-powered projects.
 - 💬 Ask me about: **Spring Boot, React, MERN Stack, Docker, or AI/ML concepts**.
 - 😄 Pronouns: He/Him
